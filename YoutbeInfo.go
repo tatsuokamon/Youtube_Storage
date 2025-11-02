@@ -1,4 +1,4 @@
-package main
+package youtubestorage
 
 const (
 	YOUTUBE_TYPE_VIDEO int = iota

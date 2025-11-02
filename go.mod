@@ -1,4 +1,4 @@
-module youtube_storage
+module github.com/tatsuokamon/Youtube_Storage
 
 go 1.25.0
 

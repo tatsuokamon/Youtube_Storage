@@ -1,4 +1,4 @@
-package main
+package youtubestorage
 
 type Item struct {
 	ID    int `gorm:"autoIncrement;primaryKey"`

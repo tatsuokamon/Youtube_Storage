@@ -1,7 +1,6 @@
-package main
+package youtubestorage
 
 import (
-	"iter"
 	"os"
 
 	"gorm.io/driver/sqlite"
