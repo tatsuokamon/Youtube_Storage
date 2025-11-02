@@ -1,0 +1,7 @@
+package main
+
+const (
+	YOUTUBE_TYPE_VIDEO int = iota
+	YOUTUBE_TYPE_LIST
+	YOUTUBE_TYPE_CHANNEL
+)
